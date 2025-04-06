@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
-	<!-- Hotel 1 (from the example) -->
 	<Hotel Rating="4.2">
 		<Name>Westin Phoenix Downtown</Name>
 		<Phone>800-937-8461</Phone>
@@ -13,8 +12,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 2 -->
 	<Hotel Rating="4.5">
 		<Name>Hilton Phoenix Airport</Name>
 		<Phone>800-445-8667</Phone>
@@ -27,8 +24,6 @@
 			<Zip>85034</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 3 -->
 	<Hotel>
 		<Name>Hyatt Regency Phoenix</Name>
 		<Phone>602-252-1234</Phone>
@@ -41,8 +36,6 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 4 -->
 	<Hotel Rating="4.1">
 		<Name>Sheraton Grand at Wild Horse Pass</Name>
 		<Phone>602-225-0100</Phone>
@@ -55,8 +48,6 @@
 			<Zip>85226</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 5 -->
 	<Hotel Rating="4.3">
 		<Name>JW Marriott Phoenix Desert Ridge</Name>
 		<Phone>480-293-5000</Phone>
@@ -69,8 +60,6 @@
 			<Zip>85054</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 6 -->
 	<Hotel>
 		<Name>The Camby Hotel</Name>
 		<Phone>602-468-0700</Phone>
@@ -83,8 +72,6 @@
 			<Zip>85016</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 7 -->
 	<Hotel Rating="4.4">
 		<Name>Arizona Biltmore</Name>
 		<Phone>602-955-6600</Phone>
@@ -97,8 +84,6 @@
 			<Zip>85016</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 8 -->
 	<Hotel Rating="4.0">
 		<Name>Found Re Phoenix</Name>
 		<Phone>602-875-8000</Phone>
@@ -110,8 +95,6 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 9 -->
 	<Hotel>
 		<Name>Hotel Valley Ho</Name>
 		<Phone>480-248-2000</Phone>
@@ -124,10 +107,8 @@
 			<Zip>85251</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 10 -->
 	<Hotel Rating="4.6">
-		<Name>The Scott Resort &amp; Spa</Name>
+		<Name>The Scott Resort and Spa</Name>
 		<Phone>480-948-5000</Phone>
 		<Phone>866-440-8200</Phone>
 		<Address>
