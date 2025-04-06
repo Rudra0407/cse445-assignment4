@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <!-- Hotel 1 (EXACT match to Figure 1 sample) -->
   <Hotel Rating="4.2">
-    <Name>Westin Phoenix Downtown</Name>
+    <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
     <Phone>480-968-8885</Phone>
-    <Address NearstAirport="Sky Harbor International">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E.7th St</Street>
       <City>Tempe</City>
@@ -12,11 +13,13 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 2 -->
   <Hotel Rating="4.5">
-    <Name>Hilton Phoenix Airport</Name>
+    <Name>Hilton</Name>
     <Phone>800-445-8667</Phone>
     <Phone>602-650-5400</Phone>
-    <Address NearstAirport="Sky Harbor International">
+    <Address NearstAirport="Sky Harbor">
       <Number>2435</Number>
       <Street>S 47th St</Street>
       <City>Phoenix</City>
@@ -24,11 +27,12 @@
       <Zip>85034</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 3 -->
   <Hotel>
-    <Name>Hyatt Regency Phoenix</Name>
+    <Name>Hyatt</Name>
     <Phone>602-252-1234</Phone>
-    <Phone>888-591-1234</Phone>
-    <Address NearstAirport="Sky Harbor International">
+    <Address NearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -36,10 +40,11 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 4 -->
   <Hotel Rating="4.1">
-    <Name>Sheraton Grand at Wild Horse Pass</Name>
+    <Name>Sheraton</Name>
     <Phone>602-225-0100</Phone>
-    <Phone>888-625-5144</Phone>
     <Address>
       <Number>5594</Number>
       <Street>W Wild Horse Pass Blvd</Street>
@@ -48,10 +53,11 @@
       <Zip>85226</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 5 -->
   <Hotel Rating="4.3">
-    <Name>JW Marriott Phoenix Desert Ridge</Name>
+    <Name>Marriott</Name>
     <Phone>480-293-5000</Phone>
-    <Phone>800-228-9290</Phone>
     <Address NearstAirport="Phoenix Deer Valley">
       <Number>5350</Number>
       <Street>E Marriott Dr</Street>
@@ -60,11 +66,12 @@
       <Zip>85054</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 6 -->
   <Hotel>
-    <Name>The Camby Hotel</Name>
+    <Name>Camby</Name>
     <Phone>602-468-0700</Phone>
-    <Phone>855-256-7272</Phone>
-    <Address NearstAirport="Sky Harbor International">
+    <Address NearstAirport="Sky Harbor">
       <Number>2401</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>
@@ -72,10 +79,11 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 7 -->
   <Hotel Rating="4.4">
-    <Name>Arizona Biltmore</Name>
+    <Name>Biltmore</Name>
     <Phone>602-955-6600</Phone>
-    <Phone>800-950-0086</Phone>
     <Address>
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
@@ -84,10 +92,12 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 8 -->
   <Hotel Rating="4.0">
-    <Name>Found Re Phoenix</Name>
+    <Name>Found Re</Name>
     <Phone>602-875-8000</Phone>
-    <Address NearstAirport="Sky Harbor International">
+    <Address NearstAirport="Sky Harbor">
       <Number>1100</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
@@ -95,10 +105,11 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 9 -->
   <Hotel>
-    <Name>Hotel Valley Ho</Name>
+    <Name>Valley Ho</Name>
     <Phone>480-248-2000</Phone>
-    <Phone>866-882-4484</Phone>
     <Address NearstAirport="Scottsdale Municipal">
       <Number>6850</Number>
       <Street>E Main St</Street>
@@ -107,10 +118,11 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
+
+  <!-- Hotel 10 -->
   <Hotel Rating="4.6">
-    <Name>The Scott Resort and Spa</Name>
+    <Name>Scott Resort</Name>
     <Phone>480-948-5000</Phone>
-    <Phone>866-440-8200</Phone>
     <Address>
       <Number>4925</Number>
       <Street>N Scottsdale Rd</Street>
